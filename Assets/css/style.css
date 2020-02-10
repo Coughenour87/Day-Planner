@@ -106,3 +106,24 @@ body {
     border-left: 1px;
     border-top: 1px;
   }
+
+  fieldset {
+    display: inline;
+    width:100%;
+  }
+
+  .button-column {
+    width: 5%;
+  }
+
+  .label-column {
+    width: 5%;
+  }
+
+  .input-column {
+    width: 100%;
+  }
+
+  /* #submit {
+    float: right;
+  } */

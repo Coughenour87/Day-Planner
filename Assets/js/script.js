@@ -1,7 +1,12 @@
-var submitE1 = document.querySelector("#submit");
-submitE1.addEventListener("click", function(event) {
-    event.preventDefault();
+var dayPlanner;
 
-    var response = "Saved";
-    submissionResponseE1.textContent = response;
-}
+$(document).ready(function() {
+
+var save; 
+
+$("#save").on("click", function() {
+    alert(" Information saved");
+    save++;
+
+});
+})
