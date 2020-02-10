@@ -1,16 +1,16 @@
-var currentDateAndTime = Date(Date.now());
-var currentHour = new Date().getHours();
+// var currentDateAndTime = Date(Date.now());
+// var currentHour = new Date().getHours();
 
 
-var dayPlanner;
+// var dayPlanner;
 
-$(document).ready(function() {
+// $(document).ready(function() {
 
-var save; 
+// var save; 
 
-$("#save").on("click", function() {
-    alert(" Information saved");
-    save++;
+// $("#save").on("click", function() {
+//     alert(" Information saved");
+//     save++;
 
-});
-})
+// });
+// })
