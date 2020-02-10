@@ -8,3 +8,6 @@
 * The current day is displayed at the top of the calendar.
 
 * Each hour should be color coded to reflect past, present, or future for that time slot.
+
+var currentDateAndTime = Date(Date.now());// exp: Fri Oct 25 2019 17:40:56 GMT-0400 (Eastern Daylight Time)
+var currentHour = new Date().getHours();//Current hour in military time
