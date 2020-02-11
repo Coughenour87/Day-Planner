@@ -1,3 +1,7 @@
+![Photo of finished Product](./assets/image/fin.png) 
+
+[Deployed Website] https://github.com/Coughenour87/Day-Planner
+
 
 * The application displays timeblocks for standard business hours (9 a.m. to 5 p.m.).
 
@@ -9,5 +13,3 @@
 
 * Each hour should be color coded to reflect past, present, or future for that time slot.
 
-var currentDateAndTime = Date(Date.now());// exp: Fri Oct 25 2019 17:40:56 GMT-0400 (Eastern Daylight Time)
-var currentHour = new Date().getHours();//Current hour in military time
