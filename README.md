@@ -1,6 +1,6 @@
-![Photo of finished Product](./assets/image/fin.png) 
+![Photo of finished Product](./Assets/image/fin.png) 
 
-[Deployed Website] https://github.com/Coughenour87/Day-Planner
+[Deployed Website](https://github.com/Coughenour87/Day-Planner)
 
 
 * The application displays timeblocks for standard business hours (9 a.m. to 5 p.m.).
